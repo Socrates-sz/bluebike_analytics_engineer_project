@@ -1,0 +1,3 @@
+#For libraries
+requests
+pandas
